@@ -50,7 +50,7 @@ else
 <audio controls="controls">
 <source src="mp3/lagu-barat128amplify.mp3" type="audio/mpeg" />
 </audio>
-</center>
-<li>&copy; Students System Information Uin Suska Riau</li>
+</center><br><br><br>
+&copy; Students System Information Uin Suska Riau
 </body>
 </html>
