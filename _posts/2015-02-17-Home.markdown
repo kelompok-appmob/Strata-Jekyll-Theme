@@ -47,5 +47,6 @@ else
 <source src="mp3/lagu-barat128fast.mp3" type="audio/mpeg" />
 </audio>
 </center>
+<img src="/images/fulls/02.jpg" class="fit image">
 </body>
 </html>
