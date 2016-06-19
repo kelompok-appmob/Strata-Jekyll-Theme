@@ -2,9 +2,9 @@
 layout: post
 ---
 
-<img src="/images/fulls/03.jpg" class="fit image">
 <html manifest="cache.manifest">
 <body>
+<img src="/images/fulls/03.jpg" class="fit image">
 <div id="result"></div>
 <script>
 if(typeof(Storage)!=="undefined")
@@ -17,4 +17,33 @@ else
   document.getElementById("result").innerHTML="Sorry, your browser does not support web storage...";
   }
 </script>
-
+<p>Lagu Barat(16kbps)</p>
+<audio controls="controls">
+<source src="mp3/lagu-barat16.mp3" type="audio/mpeg" />
+</audio>
+<p>Lagu Barat(32kbps)</p>
+<audio controls="controls">
+<source src="mp3/lagu-barat32.mp3" type="audio/mpeg" />
+</audio>
+<p>Lagu Barat(64kbps)</p>
+<audio controls="controls">
+<source src="mp3/lagu-barat64.mp3" type="audio/mpeg" />
+</audio>
+<p>Lagu Barat(128kbps)Asli</p>
+<audio controls="controls">
+<source src="mp3/lagu-barat128.mp3" type="audio/mpeg" />
+</audio>
+<p>Lagu Barat(128kbps) Beda pitch</p>
+<audio controls="controls">
+<source src="mp3/lagu-barat128pitch.mp3" type="audio/mpeg" />
+</audio>
+<p>Lagu Barat(128kbps)Amplify</p>
+<audio controls="controls">
+<source src="mp3/lagu-barat128amplify.mp3" type="audio/mpeg" />
+</audio>
+<p>Lagu Barat(128kbps)Fast </p>
+<audio controls="controls">
+<source src="mp3/lagu-barat128fast.mp3" type="audio/mpeg" />
+</audio>
+</body>
+</html>
