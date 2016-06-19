@@ -51,5 +51,6 @@ else
 <source src="mp3/lagu-barat128amplify.mp3" type="audio/mpeg" />
 </audio>
 </center>
+<li>&copy; Students System Information Uin Suska Riau</li>
 </body>
 </html>
