@@ -17,6 +17,7 @@ else
   document.getElementById("result").innerHTML="Sorry, your browser does not support web storage...";
   }
 </script>
+<center>
 <p>Lagu Barat(16kbps)</p>
 <audio controls="controls">
 <source src="mp3/lagu-barat16.mp3" type="audio/mpeg" />
@@ -45,5 +46,6 @@ else
 <audio controls="controls">
 <source src="mp3/lagu-barat128fast.mp3" type="audio/mpeg" />
 </audio>
+</center>
 </body>
 </html>
