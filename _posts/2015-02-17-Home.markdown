@@ -51,6 +51,6 @@ else
 <source src="mp3/lagu-barat128amplify.mp3" type="audio/mpeg" />
 </audio>
 </center><br><br><br>
-&copy; Students System Information Uin Suska Riau
+&copy; Students System Information Uin Suska Riau - Powered by Strata Jekyll Theme 2016
 </body>
 </html>
