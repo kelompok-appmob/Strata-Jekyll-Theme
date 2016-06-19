@@ -40,8 +40,8 @@ else
 <p>Lagu Barat(128kbps)Asli</p>
 <audio controls="controls">
 <source src="mp3/lagu-barat128.mp3" type="audio/mpeg" />
-</audio><br>
-<img src="/images/fulls/01.jpg" class="fit image">
+</audio>
+<br><br><img src="/images/fulls/01.jpg" class="fit image">
 <p>Lagu Barat(128kbps) Beda pitch</p>
 <audio controls="controls">
 <source src="mp3/lagu-barat128pitch.mp3" type="audio/mpeg" />
