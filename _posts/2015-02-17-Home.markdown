@@ -26,6 +26,13 @@ else
 <audio controls="controls">
 <source src="mp3/lagu-barat32.mp3" type="audio/mpeg" />
 </audio>
+<p>Lagu Barat(128kbps)Fast </p>
+<audio controls="controls">
+<source src="mp3/lagu-barat128fast.mp3" type="audio/mpeg" />
+</audio>
+</center>
+<br>
+<img src="/images/fulls/02.jpg" class="fit image">
 <p>Lagu Barat(64kbps)</p>
 <audio controls="controls">
 <source src="mp3/lagu-barat64.mp3" type="audio/mpeg" />
@@ -33,7 +40,8 @@ else
 <p>Lagu Barat(128kbps)Asli</p>
 <audio controls="controls">
 <source src="mp3/lagu-barat128.mp3" type="audio/mpeg" />
-</audio>
+</audio><br>
+<img src="/images/fulls/01.jpg" class="fit image">
 <p>Lagu Barat(128kbps) Beda pitch</p>
 <audio controls="controls">
 <source src="mp3/lagu-barat128pitch.mp3" type="audio/mpeg" />
@@ -42,13 +50,5 @@ else
 <audio controls="controls">
 <source src="mp3/lagu-barat128amplify.mp3" type="audio/mpeg" />
 </audio>
-<p>Lagu Barat(128kbps)Fast </p>
-<audio controls="controls">
-<source src="mp3/lagu-barat128fast.mp3" type="audio/mpeg" />
-</audio>
-</center>
-<br>
-<img src="/images/fulls/02.jpg" class="fit image">
-<img src="/images/fulls/01.jpg" class="fit image">
 </body>
 </html>
