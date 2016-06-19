@@ -31,7 +31,7 @@ else
 <source src="mp3/lagu-barat128fast.mp3" type="audio/mpeg" />
 </audio>
 </center>
-<br>
+<br><center>
 <img src="/images/fulls/02.jpg" class="fit image">
 <p>Lagu Barat(64kbps)</p>
 <audio controls="controls">
@@ -50,5 +50,6 @@ else
 <audio controls="controls">
 <source src="mp3/lagu-barat128amplify.mp3" type="audio/mpeg" />
 </audio>
+</center>
 </body>
 </html>
