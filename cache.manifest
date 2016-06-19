@@ -1,0 +1,26 @@
+CACHE MANIFEST
+# 2010-06-18:v2
+
+CACHE:
+index.html
+mp3/lagu-barat16.mp3
+mp3/lagu-barat32.mp3
+mp3/lagu-barat64.mp3
+mp3/lagu-barat128.mp3
+mp3/lagu-barat128pitch.mp3
+mp3/lagu-barat128amplify.mp3
+mp3/lagu-barat128fast.mp3
+images/avatar.jpg
+images/fulls/03.jpg
+_posts/2015-02-17-curabitur.markdown
+htaccess.htaccess
+
+# Resources that require the user to be online.
+NETWORK:
+*
+
+# static.html will be served if main.py is inaccessible
+# offline.jpg will be served in place of all images in images/large/
+# offline.html will be served in place of all other .html files
+FALLBACK:
+index.html
